@@ -1,0 +1,5 @@
+1º Curso: 
+ - Introdução ao pensamento computacional concluído com sucesso
+2º Curso:
+ - Introdução ao Git e GitHub concluído com sucesso
+ - Desafio de Projeto: Criação de repositório no GitHub: status: Concluído
